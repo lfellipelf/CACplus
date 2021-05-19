@@ -32,7 +32,7 @@ CAVES & CLIFFS EXPASION PACK - 21w20a Compatible - v. 1.3.0
 
 v. 1.3.0 Changelog*
 
-- Rewrited all the datapack code to the work with most recent snapshot (21w20a).
+- Rewrited all the datapack code to work with most recent snapshot (21w20a).
 - Changed all the cave biomes balance.
 - All the cave biomes are less likely to generate again.
 - Dripstone Caves are now more likely to generate.
