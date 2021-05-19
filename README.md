@@ -1,5 +1,5 @@
 # Caves and Cliffs Expansion Pack
-This datapack was created with the intention to replicate a unreleased feature of Minecraft Caves & Cliffs, the cave biome generation. This datapack adds the two main biomes from the update (Besides Deep Dark). The Lush Caves biome and the Dripstone Caves biome. 
+This datapack was created with the intention to replicate an unreleased feature of Minecraft Caves & Cliffs, the cave biome generation. This datapack adds the two main biomes from the update (Besides Deep Dark). The Lush Caves biome and the Dripstone Caves biome. 
 
 # Installation
 Download the datapack here: [C&C EXPANSION PACK 1.3.0 (EXTRACT).zip](https://github.com/lfellipelf/CACplus/files/6511916/C.C.EXPANSION.PACK.1.3.0.EXTRACT.zip)
