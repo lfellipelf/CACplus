@@ -9,7 +9,7 @@ Download the datapack here: [c-c-expansion-pack-1-3-4 (3).zip](https://github.co
 This datapack is integrated with the official Mojang "Caves and Cliffs Preview" datapack, the only thing you have to do is apply this datapack in your minecraft new world folder.
 
 # Changelog:
-CAVES & CLIFFS EXPASION PACK - 21w20a Compatible - v. 1.3.4
+CAVES & CLIFFS EXPASION PACK - 1.17 Pre-release 1 - v. 1.3.4
 
 *v. 1.2.0 Changelog*
 
