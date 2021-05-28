@@ -2,7 +2,8 @@
 This datapack was created with the intention to replicate an unreleased feature of Minecraft Caves & Cliffs, the cave biome generation. This datapack adds the two main biomes from the update (Besides Deep Dark). The Lush Caves biome and the Dripstone Caves biome. 
 
 # Installation
-Download the datapack here: [C&C EXPANSION PACK 1.3.0 (EXTRACT).zip](https://github.com/lfellipelf/CACplus/files/6511916/C.C.EXPANSION.PACK.1.3.0.EXTRACT.zip)
+Download the datapack here: [c-c-expansion-pack-1-3-4 (3).zip](https://github.com/lfellipelf/CACplus/files/6563650/c-c-expansion-pack-1-3-4.3.zip)
+
 
 
 This datapack is integrated with the official Mojang "Caves and Cliffs Preview" datapack, the only thing you have to do is apply this datapack in your minecraft new world folder.
@@ -78,13 +79,6 @@ Things to do before global release:
 - Tweaks to Dripstone and Lush caves intersection (after 1.3.5 re-balance).
 - Update to 1.17 Pre-release 2 (waiting the update).
 - Rounds of test involving cave biome generation balance.
-
-
-
-
-
-
-
 
 # Disclaimer
 This datapack is totally experimental. I do not grant compatibility with versions he was not made for.
